@@ -1,0 +1,26 @@
+
+.bg_color{
+    margin: 0;
+    padding: 0;
+    background-color: #171d2d;
+}
+.main{
+    background-image: url(assets/bg-img.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hero_text{
+    font-size: 55px;
+}
+.glass_card{
+   
+    background: rgba(255, 255, 255, 0.15);
+    height: 10rem;
+}
+.line{
+    height: 100%;
+    background-color: red;
+    width: 3px;
+}
